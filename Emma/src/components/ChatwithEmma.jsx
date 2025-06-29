@@ -80,7 +80,7 @@ const ChatwithEmma = () => {
               headers: {
                 'Content-Type': 'application/json',
                 // Use environment variable or secure method to store API key
-                'Authorization': `Bearer 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`
+                'Authorization': `Bearer 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`
               }
             }
           );
@@ -146,7 +146,7 @@ const ChatwithEmma = () => {
               headers: {
                 'Content-Type': 'application/json',
                 // Use environment variable or secure method to store API key
-                'Authorization': `Bearer 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`
+                'Authorization': `Bearer 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`
               }
             }
           );
